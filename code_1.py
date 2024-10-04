@@ -1,33 +1,13 @@
 
-    const data = generateRandomData();
-        data.push(Math.floor(Math.random() * 100) + 1);
-}
-    });
-    return data;
-    const data = [];
-    data.forEach(item => {
-main();
-        console.log("Random Number: " + item);
+public class RandomDataGenerator {
+    public static void main(String[] args) {
+        }
+            System.out.println("Random Number: " + item);
 
+        int[] data = new int[10];
 }
+        }
+            data[i] = (int) (Math.random() * 100) + 1;
+        for (int i = 0; i < 10; i++) {
     }
-function generateRandomData() {
-
-function main() {
-    for (let i = 0; i < 10; i++) {        console.log("Random Number: " + item);
-main();
-}
-    for (let i = 0; i < 10; i++) {
-    data.forEach(item => {
-function generateRandomData() {
-}
-
-        data.push(Math.floor(Math.random() * 100) + 1);
-    }
-    const data = generateRandomData();
-
-    const data = [];
-    return data;
-
-    });
-function main() {
+        for (int item : data) {
